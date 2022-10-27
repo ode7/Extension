@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 10px;
+   min-width: 400px;
+}
+input {
+  width: 100%;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+button {
+  margin-top: 8px;
+  background-color: rgb(1, 163, 1);
+  border: none;
+  color: white;
+  padding: 8px;
+  font-weight: 700;
+}
+ul{
+  list-style: none;
+  margin-top: 15px;
+}
+li{
+  text-decoration: underline;
+  margin-top: 5px;
+}
+a{
+  color: rgb(1, 163, 1);
+}
